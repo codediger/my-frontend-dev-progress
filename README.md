@@ -14,6 +14,6 @@ This is a repository that contains my front-end progress/work since I started Fr
 
 ##  October 2017
 ### Personal Blog
-  - url: http://piecesofco.de.com 
+  - url: http://piecesofco.de
 
 
