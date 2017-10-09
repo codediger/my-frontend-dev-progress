@@ -12,3 +12,8 @@ This is a repository that contains my front-end progress/work since I started Fr
   - url: http://orinamiolatunji.com 
   - github: http://bit.ly/2xGBQDX
 
+##  October 2017
+### Personal Blog
+  - url: http://piecesofco.de.com 
+
+
